@@ -10,4 +10,5 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-
+![Tailwind CSS](https://img.shields.io/badge/-tailwindcss-000?&logo=tailwindcss)
+![Git](https://img.shields.io/badge/-git-000?&logo=git)
