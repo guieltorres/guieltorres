@@ -1,6 +1,6 @@
 ### Languages
 
-![Dart](https://img.shields.io/badge/-Dat-000?&logo=dart)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
